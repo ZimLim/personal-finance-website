@@ -1,6 +1,10 @@
-# personal-finance-website
+
 <h1>Personal Finance Website </h1>
 <p> A website that tracks my spending </p>
+
+Tech Stack
+* React
+* MongoDB
 
 Planned Features
 * Enable upload for a PNG or JPG file of purchase receipts
